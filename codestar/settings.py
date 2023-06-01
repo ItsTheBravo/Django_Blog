@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-snpvka@9)$=hy+w9qp&-+7x6zpkw%33tlxm2cq4rjhz1!m+2b9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://8000-itsthebravo-djangoblog-ma5z86r6zb3.ws-eu98.gitpod.io/']
+ALLOWED_HOSTS = ['https://8000-itsthebravo-djangoblog-ma5z86r6zb3.ws-eu98.gitpod.io']
 
 
 # Application definition
